@@ -1,4 +1,4 @@
-
+![image](./claireaid.png)
 # How To Launch this project
 
 # 1. Download the last node js version and install [Node js website](https://nodejs.org/en/download)
